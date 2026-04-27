@@ -1,0 +1,11 @@
+{
+  "name": "fuel-data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily ingester for UK CMA-mandated fuel-price feeds. Outputs region-bucketed JSON served via jsDelivr CDN.",
+  "scripts": {
+    "ingest": "node scripts/ingest.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
