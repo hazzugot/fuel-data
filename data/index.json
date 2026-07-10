@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T09:22:43.327Z",
+  "updated": "2026-07-10T09:19:55.040Z",
   "total": 3659,
   "regions": {
     "MID": 742,
@@ -14,7 +14,7 @@
     "asda": {
       "ok": true,
       "count": 790,
-      "ms": 661
+      "ms": 210
     },
     "bp": {
       "ok": false,
@@ -23,27 +23,27 @@
     "esso_tesco": {
       "ok": true,
       "count": 196,
-      "ms": 242
+      "ms": 252
     },
     "jet": {
       "ok": true,
       "count": 11,
-      "ms": 486
+      "ms": 733
     },
     "morrisons": {
       "ok": true,
       "count": 1,
-      "ms": 321
+      "ms": 57
     },
     "mfg": {
       "ok": true,
       "count": 1223,
-      "ms": 1376
+      "ms": 1490
     },
     "rontec": {
       "ok": true,
       "count": 265,
-      "ms": 834
+      "ms": 1223
     },
     "sainsburys": {
       "ok": false,
@@ -52,22 +52,22 @@
     "tesco": {
       "ok": true,
       "count": 515,
-      "ms": 809
+      "ms": 392
     },
     "applegreen": {
       "ok": true,
       "count": 65,
-      "ms": 263
+      "ms": 70
     },
     "moto": {
       "ok": true,
       "count": 47,
-      "ms": 595
+      "ms": 765
     },
     "shell": {
       "ok": true,
       "count": 546,
-      "ms": 1454
+      "ms": 1355
     }
   }
 }
