@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-28T11:51:57.338Z",
-  "total": 3660,
+  "updated": "2026-10-29T11:59:27.595Z",
+  "total": 2435,
   "regions": {
-    "MID": 741,
-    "WAL": 209,
-    "SCO": 315,
-    "N": 796,
-    "S": 1569,
+    "MID": 485,
+    "WAL": 148,
+    "SCO": 177,
+    "N": 558,
+    "S": 1037,
     "NI": 29,
     "OTHER": 1
   },
@@ -14,7 +14,7 @@
     "asda": {
       "ok": true,
       "count": 790,
-      "ms": 379
+      "ms": 267
     },
     "bp": {
       "ok": false,
@@ -23,27 +23,26 @@
     "esso_tesco": {
       "ok": true,
       "count": 195,
-      "ms": 124
+      "ms": 109
     },
     "jet": {
       "ok": true,
       "count": 11,
-      "ms": 132
+      "ms": 218
     },
     "morrisons": {
       "ok": true,
       "count": 1,
-      "ms": 172
+      "ms": 167
     },
     "mfg": {
-      "ok": true,
-      "count": 1225,
-      "ms": 1228
+      "ok": false,
+      "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
     },
     "rontec": {
       "ok": true,
       "count": 265,
-      "ms": 1006
+      "ms": 967
     },
     "sainsburys": {
       "ok": false,
@@ -52,22 +51,22 @@
     "tesco": {
       "ok": true,
       "count": 515,
-      "ms": 906
+      "ms": 785
     },
     "applegreen": {
       "ok": true,
       "count": 65,
-      "ms": 105
+      "ms": 162
     },
     "moto": {
       "ok": true,
       "count": 47,
-      "ms": 944
+      "ms": 931
     },
     "shell": {
       "ok": true,
       "count": 546,
-      "ms": 1196
+      "ms": 1198
     }
   }
 }
